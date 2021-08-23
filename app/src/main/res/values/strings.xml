@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebApp1</string>
+    <string name="txt_bienvenida">Bienvenidos a WebApp</string>
+    <string name="txt_aviso">Deslice</string>
+    <string name="etxt_URL">Ingrese una URL</string>
+    <string name="btn_navegar">Navegar</string>
+    <string name="btn_evaluacion">Evalúenos</string>
+    <string name="txt_evaluacion1">Rapidez</string>
+    <string name="txt_evaluacion2">Facilidad</string>
+    <string name="txt_evaluacion3">Buen diseño</string>
+</resources>

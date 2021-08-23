@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebApp1</string>
+    <string name="txt_bienvenida">Γεία σας, WebApp</string>
+    <string name="txt_aviso">Σύρετε</string>
+    <string name="etxt_URL">Γράψτε μία URL</string>
+    <string name="btn_navegar">Αναζήτηση</string>
+    <string name="btn_evaluacion">Aξιολογήστε μας</string>
+    <string name="txt_evaluacion1">Ταχύτητα</string>
+    <string name="txt_evaluacion2">Ευκολία</string>
+    <string name="txt_evaluacion3">Ωραία</string>
+</resources>
